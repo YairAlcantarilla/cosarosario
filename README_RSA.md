@@ -10,7 +10,7 @@ Instalar las librerías necesarias:
 pip install cryptography PyQt6
 ```
 
-## �️ Interfaz Gráfica (RECOMENDADO)
+## Interfaz Gráfica (RECOMENDADO)
 
 ### Ejecutar la aplicación con interfaz gráfica:
 
